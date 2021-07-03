@@ -1,0 +1,19 @@
+h1{
+    color: blue;
+    text-align: center;
+}
+span{
+    color: blueviolet;
+    padding: 42%;
+}
+div{
+    background-color: cyan;
+    text-align: center;
+    padding: 30px;
+    margin: 50px;
+
+}
+.doo{
+    margin: 10px;
+    
+}
